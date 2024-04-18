@@ -1,0 +1,4 @@
+C:\Users\Heydar\Desktop\Sinif taski 18aprel\Sinif taski 18aprel\obj\Debug\net6.0\Sinif taski 18aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heydar\Desktop\Sinif taski 18aprel\Sinif taski 18aprel\obj\Debug\net6.0\Sinif taski 18aprel.AssemblyInfoInputs.cache
+C:\Users\Heydar\Desktop\Sinif taski 18aprel\Sinif taski 18aprel\obj\Debug\net6.0\Sinif taski 18aprel.AssemblyInfo.cs
+C:\Users\Heydar\Desktop\Sinif taski 18aprel\Sinif taski 18aprel\obj\Debug\net6.0\Sinif taski 18aprel.csproj.CoreCompileInputs.cache

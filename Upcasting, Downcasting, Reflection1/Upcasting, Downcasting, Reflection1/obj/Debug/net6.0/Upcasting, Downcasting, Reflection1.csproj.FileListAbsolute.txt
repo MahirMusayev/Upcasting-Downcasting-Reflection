@@ -1,0 +1,14 @@
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\bin\Debug\net6.0\Upcasting, Downcasting, Reflection1.exe
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\bin\Debug\net6.0\Upcasting, Downcasting, Reflection1.deps.json
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\bin\Debug\net6.0\Upcasting, Downcasting, Reflection1.runtimeconfig.json
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\bin\Debug\net6.0\Upcasting, Downcasting, Reflection1.dll
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\bin\Debug\net6.0\Upcasting, Downcasting, Reflection1.pdb
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\obj\Debug\net6.0\Upcasting, Downcasting, Reflection1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\obj\Debug\net6.0\Upcasting, Downcasting, Reflection1.AssemblyInfoInputs.cache
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\obj\Debug\net6.0\Upcasting, Downcasting, Reflection1.AssemblyInfo.cs
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\obj\Debug\net6.0\Upcasting, Downcasting, Reflection1.csproj.CoreCompileInputs.cache
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\obj\Debug\net6.0\Upcasting, Downcasting, Reflection1.dll
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\obj\Debug\net6.0\refint\Upcasting, Downcasting, Reflection1.dll
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\obj\Debug\net6.0\Upcasting, Downcasting, Reflection1.pdb
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\obj\Debug\net6.0\Upcasting, Downcasting, Reflection1.genruntimeconfig.cache
+C:\Users\Heydar\Desktop\Upcasting, Downcasting, Reflection1\Upcasting, Downcasting, Reflection1\obj\Debug\net6.0\ref\Upcasting, Downcasting, Reflection1.dll

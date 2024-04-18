@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|c:\\users\\heydar\\desktop\\upcasting, downcasting, reflection1\\upcasting, downcasting, reflection1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|solutionrelative:upcasting, downcasting, reflection1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|c:\\users\\heydar\\desktop\\upcasting, downcasting, reflection1\\upcasting, downcasting, reflection1\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|solutionrelative:upcasting, downcasting, reflection1\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|c:\\users\\heydar\\desktop\\upcasting, downcasting, reflection1\\upcasting, downcasting, reflection1\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|solutionrelative:upcasting, downcasting, reflection1\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|c:\\users\\heydar\\desktop\\upcasting, downcasting, reflection1\\upcasting, downcasting, reflection1\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|solutionrelative:upcasting, downcasting, reflection1\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|c:\\users\\heydar\\desktop\\upcasting, downcasting, reflection1\\upcasting, downcasting, reflection1\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|solutionrelative:upcasting, downcasting, reflection1\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|c:\\users\\heydar\\desktop\\upcasting, downcasting, reflection1\\upcasting, downcasting, reflection1\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|solutionrelative:upcasting, downcasting, reflection1\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|c:\\users\\heydar\\desktop\\upcasting, downcasting, reflection1\\upcasting, downcasting, reflection1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B63067-61FC-4FFD-AE8B-CC97AD7DEFAE}|Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1.csproj|solutionrelative:upcasting, downcasting, reflection1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Lion.cs",
+              "RelativeDocumentMoniker": "Upcasting, Downcasting, Reflection1\\Lion.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Lion.cs",
+              "RelativeToolTip": "Upcasting, Downcasting, Reflection1\\Lion.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:58:47.229Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Meat.cs",
+              "RelativeDocumentMoniker": "Upcasting, Downcasting, Reflection1\\Meat.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Meat.cs",
+              "RelativeToolTip": "Upcasting, Downcasting, Reflection1\\Meat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:56:44.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Grass.cs",
+              "RelativeDocumentMoniker": "Upcasting, Downcasting, Reflection1\\Grass.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Grass.cs",
+              "RelativeToolTip": "Upcasting, Downcasting, Reflection1\\Grass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:56:39.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Food.cs",
+              "RelativeDocumentMoniker": "Upcasting, Downcasting, Reflection1\\Food.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Food.cs",
+              "RelativeToolTip": "Upcasting, Downcasting, Reflection1\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:56:38.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Cow.cs",
+              "RelativeDocumentMoniker": "Upcasting, Downcasting, Reflection1\\Cow.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Cow.cs",
+              "RelativeToolTip": "Upcasting, Downcasting, Reflection1\\Cow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:52:46.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Animal.cs",
+              "RelativeDocumentMoniker": "Upcasting, Downcasting, Reflection1\\Animal.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Animal.cs",
+              "RelativeToolTip": "Upcasting, Downcasting, Reflection1\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:46:10.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Program.cs",
+              "RelativeDocumentMoniker": "Upcasting, Downcasting, Reflection1\\Program.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Upcasting, Downcasting, Reflection1\\Upcasting, Downcasting, Reflection1\\Program.cs",
+              "RelativeToolTip": "Upcasting, Downcasting, Reflection1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:13:25.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
